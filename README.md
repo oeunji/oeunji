@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there! I'm EUNJI LEE👋
+iOS 개발자가 되고 싶다!
 <!--
 **oeunji/oeunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
