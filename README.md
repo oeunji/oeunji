@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 AT SOPT iOS (2025.03. ~ ing)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oeunji)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oeunji)](https://github.com/anuraghazra/github-readme-stats)
+![이은지's GitHub stats](https://github-readme-stats.vercel.app/api?username=oeunji&show_icons=true&theme=radical)
