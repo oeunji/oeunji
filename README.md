@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-AT SOPT iOS (2025.03. ~ ing)
+<br/>
+
+## ✏️ Activity
+AT SOPT iOS YB (2025.03. ~ ing)
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oeunji)](https://github.com/anuraghazra/github-readme-stats)
 ![이은지's GitHub stats](https://github-readme-stats.vercel.app/api?username=oeunji&show_icons=true&theme=radical)
