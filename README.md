@@ -8,8 +8,7 @@
 
   ## Activities
 
-  📱 [SOPT 36nd]([https://github.com/GO-SOPT-iOS-Part](https://github.com/AT-SOPT-iOS)) as iOS Developer 📱
-  
+  📱 [SOPT 36nd](https://github.com/AT-SOPT-iOS) as iOS Developer 📱  
 
   <br/>
 
