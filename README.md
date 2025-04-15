@@ -15,8 +15,9 @@
   ## 🔥 Tech Stacks 🔥
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=uikit&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 
+  <br>
   <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oeunji)](https://github.com/anuraghazra/github-readme-stats)
