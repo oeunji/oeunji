@@ -24,6 +24,7 @@
   <br>
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oeunji&langs_count=4&layout=compact)]
-  ![이은지's GitHub stats](https://github-readme-stats.vercel.app/api?username=oeunji&show_icons=true&theme=radical)
+  
+  [![이은지's GitHub stats](https://github-readme-stats.vercel.app/api?username=oeunji&show_icons=true&theme=radical)]
   
 </div>
