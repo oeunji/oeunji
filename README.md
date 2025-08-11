@@ -2,13 +2,15 @@
   
   ## INTRODUCTION
 
-  ### Hi my name is Eunji Lee 👋
+  ### iOS 개발자를 꿈꾸는 이은지입니다 👋
 
   <br>
 
   ## 🏃‍♀️‍➡️ Activities 🏃‍♀️‍➡️
 
-  📱 [SOPT 36nd](https://github.com/AT-SOPT-iOS) as iOS Developer 📱  
+  [SOPT 36nd](https://github.com/AT-SOPT-iOS) as iOS Developer (2025.03. ~ 07.)
+  [BCSD]([https://bcsdlab.com/]) as iOS Developer (2025.03. ~ ing)
+
 
   <br>
 
