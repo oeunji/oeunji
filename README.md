@@ -16,7 +16,7 @@
   [BCSD](https://github.com/BCSDLab) as iOS Developer (2025.03. ~ ing)
 
 
-  [SOPT 36nd](https://github.com/AT-SOPT-iOS) as iOS Developer (2025.03. ~ 07.)
+  [SOPT 36th](https://github.com/AT-SOPT-iOS) as iOS Developer (2025.03. ~ 07.)
 
 
 
