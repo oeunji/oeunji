@@ -25,7 +25,7 @@
   <br>
   <br>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oeunji&layout=compact" alt="Top Languages">
@@ -34,7 +34,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=oeunji&show_icons=true" alt="Anurag's GitHub stats">
     </td>
   </tr>
-</table>
+</table> -->
   
   
 </div>
