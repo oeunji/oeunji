@@ -1,10 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=EunJi's%20GitHub&fontSize=42" />
 
 <div align=center>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white">
-
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a> &nbsp
+<img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/> &nbsp
 
 <div align="left">
 
