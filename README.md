@@ -10,7 +10,7 @@
 
   ## 🏃‍♀️‍➡️ Activities 🏃‍♀️‍➡️
 
-  [BCSD](https://github.com/BCSDLab) as iOS Developer (2025. 3. ~ 2025. 12.)
+  [BCSD](https://github.com/BCSDLab) as iOS Developer (2025. 3. ~ ing)
 
   [SOPT 36th](https://github.com/AT-SOPT-iOS) as iOS Developer (2025. 3. ~ 2025. 7.)
 
